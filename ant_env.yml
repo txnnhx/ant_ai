@@ -11,7 +11,7 @@ dependencies:
   - libzlib=1.3.1=h2466b09_2
   - openssl=3.5.1=h725018a_0
   - pip=25.1.1=pyh8b19718_0
-  - python=3.11.13=h3f84c4b_0_cpython
+  - python=3.11
   - python-dateutil=2.9.0.post0=pyhe01879c_2
   - setuptools=80.9.0=pyhff2d567_0
   - six=1.17.0=pyhe01879c_1
@@ -21,4 +21,11 @@ dependencies:
   - vc=14.3=h2b53caa_30
   - vc14_runtime=14.44.35208=h818238b_30
   - wheel=0.45.1=pyhd8ed1ab_1
+  - pillow
+  - requests
+  - beautifulsoup4
+  - pip:
+      - PyPDF2
+      - python-docx
+      - pytesseract
 prefix: C:\Users\user\miniforge3\envs\ant_env
