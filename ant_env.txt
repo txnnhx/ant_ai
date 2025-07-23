@@ -1,0 +1,24 @@
+name: ant_env
+channels:
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8=h2466b09_7
+  - ca-certificates=2025.7.14=h4c7d964_0
+  - libexpat=2.7.1=hac47afa_0
+  - libffi=3.4.6=h537db12_1
+  - liblzma=5.8.1=h2466b09_2
+  - libsqlite=3.50.3=hf5d6505_0
+  - libzlib=1.3.1=h2466b09_2
+  - openssl=3.5.1=h725018a_0
+  - pip=25.1.1=pyh8b19718_0
+  - python=3.11.13=h3f84c4b_0_cpython
+  - python-dateutil=2.9.0.post0=pyhe01879c_2
+  - setuptools=80.9.0=pyhff2d567_0
+  - six=1.17.0=pyhe01879c_1
+  - tk=8.6.13=h2c6b04d_2
+  - tzdata=2025b=h78e105d_0
+  - ucrt=10.0.22621.0=h57928b3_1
+  - vc=14.3=h2b53caa_30
+  - vc14_runtime=14.44.35208=h818238b_30
+  - wheel=0.45.1=pyhd8ed1ab_1
+prefix: C:\Users\user\miniforge3\envs\ant_env
